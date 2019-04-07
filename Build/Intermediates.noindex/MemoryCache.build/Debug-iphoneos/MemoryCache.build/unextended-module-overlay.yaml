@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macintosh/Desktop/MemoryCache/Build/Products/Debug-iphoneos/MemoryCache.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macintosh/Desktop/MemoryCache/Build/Intermediates.noindex/MemoryCache.build/Debug-iphoneos/MemoryCache.build/unextended-module.modulemap",
+    }]
+  }]
+}

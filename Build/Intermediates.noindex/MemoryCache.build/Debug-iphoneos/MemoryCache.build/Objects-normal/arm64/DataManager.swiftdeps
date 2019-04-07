@@ -1,0 +1,175 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DataManager"
+provides-nominal:
+- "11MemoryCache11DataManagerC"
+provides-member:
+- ["11MemoryCache11DataManagerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private "AnyObject"
+- "CacheMemory"
+- !private "CastingPrecedence"
+- "DataManager"
+- !private "Downloader"
+- "Error"
+- "JSON"
+- !private "JSONSerialization"
+- "String"
+- "UIImage"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "downloadFileAsync"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- ["11MemoryCache0bA0C", "default"]
+- !private ["11MemoryCache0bA0C", "getValue"]
+- !private ["11MemoryCache0bA0C", "hasDataOnMemory"]
+- !private ["11MemoryCache0bA0C", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadFileAsync"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "downloadFileAsync"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["11MemoryCache15DataConvertibleP", "Array"]
+- !private ["11MemoryCache15DataConvertibleP", "Dictionary"]
+- !private ["11MemoryCache15DataConvertibleP", "init"]
+- !private ["11MemoryCache11DataManagerC", "AnyObject"]
+- ["11MemoryCache11DataManagerC", "CacheMemory"]
+- !private ["11MemoryCache11DataManagerC", "Downloader"]
+- ["11MemoryCache11DataManagerC", "Error"]
+- ["11MemoryCache11DataManagerC", "JSON"]
+- !private ["11MemoryCache11DataManagerC", "JSONSerialization"]
+- ["11MemoryCache11DataManagerC", "String"]
+- ["11MemoryCache11DataManagerC", "UIImage"]
+- ["11MemoryCache11DataManagerC", "Void"]
+- ["11MemoryCache11DataManagerC", "cache"]
+- ["11MemoryCache11DataManagerC", "init"]
+- ["11MemoryCache11DataManagerC", "loadImage"]
+- ["11MemoryCache11DataManagerC", "loadJson"]
+- !private ["11MemoryCache11DataManagerC", "print"]
+- !private ["11MemoryCache17DataRepresentableP", "Array"]
+- !private ["11MemoryCache17DataRepresentableP", "Dictionary"]
+- !private ["11MemoryCache17DataRepresentableP", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["11MemoryCache10DownloaderC", "downloadFileAsync"]
+- !private ["11MemoryCache10DownloaderC", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "downloadFileAsync"]
+- !private ["SQ", "init"]
+- !private ["SQ", "jsonObject"]
+- !private ["SQ", "mutableContainers"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "mutableContainers"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "downloadFileAsync"]
+- !private ["SH", "init"]
+- !private ["SH", "jsonObject"]
+- !private ["11MemoryCache4JSONO", "Array"]
+- !private ["11MemoryCache4JSONO", "Dictionary"]
+- !private ["11MemoryCache4JSONO", "deinit"]
+- !private ["So19NSJSONSerializationC", "jsonObject"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So8NSObjectC", "downloadFileAsync"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectP", "downloadFileAsync"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "jsonObject"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["s9OptionSetP", "mutableContainers"]
+- !private ["SY", "mutableContainers"]
+- !private ["So20NSJSONReadingOptionsV", "mutableContainers"]
+- !private ["s10SetAlgebraP", "mutableContainers"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So7UIImageC", "deinit"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadFileAsync"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- "11MemoryCache0bA0C"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "11MemoryCache15DataConvertibleP"
+- "11MemoryCache11DataManagerC"
+- !private "11MemoryCache17DataRepresentableP"
+- !private "Se"
+- !private "11MemoryCache10DownloaderC"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "SH"
+- !private "11MemoryCache4JSONO"
+- !private "So19NSJSONSerializationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "SY"
+- !private "So20NSJSONReadingOptionsV"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macintosh/Desktop/MemoryCache/MemoryCache/MemoryCache.h"
+- "/Users/macintosh/Desktop/MemoryCache/Build/Intermediates.noindex/MemoryCache.build/Debug-iphoneos/MemoryCache.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dfb109aaf7af6ce8643a5606985ba8a9"

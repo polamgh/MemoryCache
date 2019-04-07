@@ -1,0 +1,11 @@
+framework module MemoryCache {
+  umbrella header "MemoryCache.h"
+
+  export *
+  module * { export * }
+}
+
+module MemoryCache.Swift {
+    header "MemoryCache-Swift.h"
+    requires objc
+}

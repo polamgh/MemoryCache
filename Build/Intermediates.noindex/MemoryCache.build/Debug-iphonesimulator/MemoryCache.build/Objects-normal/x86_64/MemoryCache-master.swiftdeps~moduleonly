@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "1c907e03e69f60fffcb986d1fa4ff601"
+build_time: [1554629418, 235167000]
+inputs:
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Extension/Extension.swift": [1554608363, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Cache/CacheMemory.swift": [1554526600, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Data/Data.swift": [1554540931, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Network/Dowloader.swift": [1554624726, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Data/DataManager.swift": [1554613235, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Data/DataDelegate.swift": [1554458171, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Error/CacheErrors.swift": [1554471451, 0]
+  "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Extension/ImageViewExtention.swift": [1554611872, 0]

@@ -1,0 +1,10 @@
+framework module MemoryCache {
+  umbrella header "MemoryCache.h"
+
+  export *
+  module * { export * }
+}
+
+module MemoryCache.__Swift {
+    exclude header "MemoryCache-Swift.h"
+}

@@ -1,0 +1,284 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CacheMemory"
+provides-nominal:
+- "11MemoryCache0bA0C"
+provides-member:
+- ["11MemoryCache0bA0C", ""]
+- ["11MemoryCache0bA0C", "getValue"]
+- ["11MemoryCache0bA0C", "setValue"]
+- ["11MemoryCache0bA0C", "hasDataOnMemory"]
+- ["11MemoryCache0bA0C", "cleanAll"]
+- ["11MemoryCache0bA0C", "clean"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "*"
+- "/"
+- "<="
+- !private "??"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "CacheMemory"
+- "CastingPrecedence"
+- !private "Data"
+- "DataConvertible"
+- "DataRepresentable"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "NSCache"
+- !private "NotificationCenter"
+- "ProcessInfo"
+- "String"
+- "TernaryPrecedence"
+- "UInt64"
+- "min"
+depends-member:
+- ["Sz", "init"]
+- ["Sz", "max"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "countLimit"]
+- !private ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "object"]
+- ["s7CVarArgP", "physicalMemory"]
+- !private ["s7CVarArgP", "removeAllObjects"]
+- !private ["s7CVarArgP", "removeObject"]
+- !private ["s7CVarArgP", "removeObserver"]
+- !private ["s7CVarArgP", "setObject"]
+- !private ["s7CVarArgP", "totalCostLimit"]
+- ["11MemoryCache0bA0C", "AnyObject"]
+- ["11MemoryCache0bA0C", "Bool"]
+- ["11MemoryCache0bA0C", "CacheMemory"]
+- !private ["11MemoryCache0bA0C", "Data"]
+- ["11MemoryCache0bA0C", "DataConvertible"]
+- ["11MemoryCache0bA0C", "DataRepresentable"]
+- ["11MemoryCache0bA0C", "Int"]
+- ["11MemoryCache0bA0C", "NSCache"]
+- !private ["11MemoryCache0bA0C", "NotificationCenter"]
+- ["11MemoryCache0bA0C", "ProcessInfo"]
+- ["11MemoryCache0bA0C", "String"]
+- ["11MemoryCache0bA0C", "UInt64"]
+- ["11MemoryCache0bA0C", "clean"]
+- ["11MemoryCache0bA0C", "cleanAll"]
+- !private ["11MemoryCache0bA0C", "cleanMemoryCache"]
+- ["11MemoryCache0bA0C", "countLimit"]
+- ["11MemoryCache0bA0C", "default"]
+- !private ["11MemoryCache0bA0C", "defaultTotalCostLimit"]
+- ["11MemoryCache0bA0C", "deinit"]
+- ["11MemoryCache0bA0C", "getValue"]
+- ["11MemoryCache0bA0C", "hasDataOnMemory"]
+- ["11MemoryCache0bA0C", "init"]
+- ["11MemoryCache0bA0C", "memoryCache"]
+- ["11MemoryCache0bA0C", "min"]
+- ["11MemoryCache0bA0C", "setValue"]
+- ["11MemoryCache0bA0C", "totalCostLimit"]
+- ["SL", "init"]
+- ["SL", "max"]
+- !private ["s28CustomDebugStringConvertibleP", "countLimit"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- ["s28CustomDebugStringConvertibleP", "physicalMemory"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAllObjects"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObject"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "setObject"]
+- !private ["s28CustomDebugStringConvertibleP", "totalCostLimit"]
+- ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "max"]
+- ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "max"]
+- ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "countLimit"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "object"]
+- ["s23CustomStringConvertibleP", "physicalMemory"]
+- !private ["s23CustomStringConvertibleP", "removeAllObjects"]
+- !private ["s23CustomStringConvertibleP", "removeObject"]
+- !private ["s23CustomStringConvertibleP", "removeObserver"]
+- !private ["s23CustomStringConvertibleP", "setObject"]
+- !private ["s23CustomStringConvertibleP", "totalCostLimit"]
+- !private ["11MemoryCache15DataConvertibleP", "convertFromData"]
+- !private ["11MemoryCache17DataRepresentableP", "asData"]
+- ["Se", "_getBuiltinLogicValue"]
+- ["Se", "init"]
+- ["Se", "max"]
+- ["SE", "_getBuiltinLogicValue"]
+- ["SE", "init"]
+- ["SE", "max"]
+- ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "countLimit"]
+- !private ["SQ", "default"]
+- ["SQ", "init"]
+- ["SQ", "max"]
+- !private ["SQ", "object"]
+- ["SQ", "physicalMemory"]
+- !private ["SQ", "removeAllObjects"]
+- !private ["SQ", "removeObject"]
+- !private ["SQ", "removeObserver"]
+- !private ["SQ", "setObject"]
+- !private ["SQ", "totalCostLimit"]
+- ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "max"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["s17FixedWidthIntegerP", "max"]
+- ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "countLimit"]
+- !private ["SH", "default"]
+- ["SH", "init"]
+- ["SH", "max"]
+- !private ["SH", "object"]
+- ["SH", "physicalMemory"]
+- !private ["SH", "removeAllObjects"]
+- !private ["SH", "removeObject"]
+- !private ["SH", "removeObserver"]
+- !private ["SH", "setObject"]
+- !private ["SH", "totalCostLimit"]
+- ["Si", "init"]
+- ["Si", "max"]
+- ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "max"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "max"]
+- !private ["So7NSCacheC", "countLimit"]
+- ["So7NSCacheC", "init"]
+- !private ["So7NSCacheC", "object"]
+- !private ["So7NSCacheC", "removeAllObjects"]
+- !private ["So7NSCacheC", "removeObject"]
+- !private ["So7NSCacheC", "setObject"]
+- !private ["So7NSCacheC", "totalCostLimit"]
+- !private ["So8NSObjectC", "countLimit"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "object"]
+- ["So8NSObjectC", "physicalMemory"]
+- !private ["So8NSObjectC", "removeAllObjects"]
+- !private ["So8NSObjectC", "removeObject"]
+- !private ["So8NSObjectC", "removeObserver"]
+- !private ["So8NSObjectC", "setObject"]
+- !private ["So8NSObjectC", "totalCostLimit"]
+- !private ["So8NSObjectP", "countLimit"]
+- !private ["So8NSObjectP", "default"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "object"]
+- ["So8NSObjectP", "physicalMemory"]
+- !private ["So8NSObjectP", "removeAllObjects"]
+- !private ["So8NSObjectP", "removeObject"]
+- !private ["So8NSObjectP", "removeObserver"]
+- !private ["So8NSObjectP", "setObject"]
+- !private ["So8NSObjectP", "totalCostLimit"]
+- !private ["So20NSNotificationCenterC", "default"]
+- !private ["So20NSNotificationCenterC", "removeObserver"]
+- ["Sj", "init"]
+- ["Sj", "max"]
+- ["So13NSProcessInfoC", "init"]
+- ["So13NSProcessInfoC", "physicalMemory"]
+- ["SZ", "init"]
+- ["SZ", "max"]
+- ["s13SignedNumericP", "init"]
+- ["s13SignedNumericP", "max"]
+- ["Sx", "init"]
+- ["Sx", "max"]
+- ["s6UInt64V", "init"]
+- ["SU", "init"]
+- ["s18_BitwiseOperationsP", "init"]
+- ["s18_BitwiseOperationsP", "max"]
+- ["s15_CVarArgAlignedP", "init"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "max"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "countLimit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "object"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "physicalMemory"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeAllObjects"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "totalCostLimit"]
+- ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "max"]
+depends-nominal:
+- "Sz"
+- "Sb"
+- "s7CVarArgP"
+- "11MemoryCache0bA0C"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "11MemoryCache15DataConvertibleP"
+- !private "11MemoryCache17DataRepresentableP"
+- "Se"
+- "SE"
+- "SQ"
+- "s27ExpressibleByBooleanLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- "SH"
+- "Si"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So7NSCacheC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So20NSNotificationCenterC"
+- "Sj"
+- "So13NSProcessInfoC"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "s6UInt64V"
+- "SU"
+- "s18_BitwiseOperationsP"
+- "s15_CVarArgAlignedP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macintosh/Desktop/MemoryCache/MemoryCache/MemoryCache.h"
+- "/Users/macintosh/Desktop/MemoryCache/Build/Intermediates.noindex/MemoryCache.build/Debug-iphonesimulator/MemoryCache.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b492a9d59167a1a564aee4cf79a993c0"
