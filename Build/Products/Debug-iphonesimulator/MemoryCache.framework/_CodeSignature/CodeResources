@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		j2Jvoub8PvZT6V9AgRGxpLvv8OI=
+		cMkWXGa/dPjgdhYYw/6XdZGACUQ=
 		</data>
 		<key>Modules/MemoryCache.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		b7TtFDEqIcRt+zrYQvQJAEyXWOM=
+		TrcP2od62YUV0OAxSHREB3mJu5A=
 		</data>
 		<key>Modules/MemoryCache.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		JJNK3s/wNqCEAZTF1SlrrSAov78=
+		JXRLZaY4OBwJSMhn1CXs1LGi/5g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -33,6 +33,10 @@
 	<dict>
 		<key>Headers/MemoryCache-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			InHwv7t8xmubfrsUtrIryhZPdcQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			s9YwmEueOvyAytCoTb1mA84IkkJk85BdppekeG/T2mM=
@@ -40,6 +44,10 @@
 		</dict>
 		<key>Headers/MemoryCache.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XJYEevHC/E9evgLiHeNkcj39vD0=
+			</data>
 			<key>hash2</key>
 			<data>
 			MPzQtRQ7znrVn+GQVDa8ncV5rVy2qSR62TMjB1IsoTk=
@@ -47,20 +55,32 @@
 		</dict>
 		<key>Modules/MemoryCache.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TrcP2od62YUV0OAxSHREB3mJu5A=
+			</data>
 			<key>hash2</key>
 			<data>
-			t5l+cfSlDy4Wbr10N1lFuD2u2NHdHxI/El2CGcATd+k=
+			qkkAvDIh+Vb0MGgFundN2m2WwTk3MCmSyk1D07ylGWg=
 			</data>
 		</dict>
 		<key>Modules/MemoryCache.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JXRLZaY4OBwJSMhn1CXs1LGi/5g=
+			</data>
 			<key>hash2</key>
 			<data>
-			r8UZkNC3shVKp5UdBRTGftzeAXG5QCA5GEyq2M9L0xw=
+			DgSwKjTxsa15jweEeUO77xKizYKjNelClDZgwEZXkfY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			USsCjJxt506SXB9KCYpLFDVDkp4=
+			</data>
 			<key>hash2</key>
 			<data>
 			6NV1GWUGl4OdLlQeLT2D02Ccu90ceqL8/qsUojob6z0=

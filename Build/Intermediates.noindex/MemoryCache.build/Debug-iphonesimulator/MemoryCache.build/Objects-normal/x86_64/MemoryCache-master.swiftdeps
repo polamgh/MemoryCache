@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "1c907e03e69f60fffcb986d1fa4ff601"
-build_time: [1554629418, 235167000]
+options: "de1363b114002bf8974d0dfb599a3829"
+build_time: [1554629706, 870006000]
 inputs:
   "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Extension/Extension.swift": [1554608363, 0]
   "/Users/macintosh/Desktop/MemoryCache/MemoryCache/Source/Cache/Cache/CacheMemory.swift": [1554526600, 0]
