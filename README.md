@@ -1,5 +1,5 @@
 # MemoryCache
-A lightweight, pure-Swift library for downloading and caching images from the web.
+A lightweight, pure-Swift library for downloading and caching images , jsons , data and anythings from the web.
 
 
 Cache and download image from web
